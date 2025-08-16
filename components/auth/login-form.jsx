@@ -188,7 +188,7 @@ export const LoginForm = ({className, ...props}) => {
                         </form>
                         <div className="text-center text-sm">
                             Don&apos;t have an account?{" "}
-                            <Link href={siteConfig.signup.link} className="underline underline-offset-4">
+                            <Link href={siteConfig.register.link} className="underline underline-offset-4">
                                 Sign up
                             </Link>
                         </div>

@@ -33,8 +33,8 @@ export const siteConfig = {
         description: "Login to your account to continue.",
         link: "/auth/login"
     },
-    // Signup
-    signup: {
+    // Register
+    register: {
         title: "Sign up",
         description: "Create an account to continue.",
         link: "/auth/register"
